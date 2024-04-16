@@ -12,7 +12,7 @@ exatamente no final do texto que você vai escrever. Por exemplo: alert("alo mun
 de linha, tal como o efeito do ENTER.
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-| Exemplo de entrada:	| Exemplo de saída:             |
+| Exemplo de entrada: | Exemplo de saída:             |
 | 1                   | pes: 3.280839895013123        |
 |                     | jardas: 1.0936132983377078    |
 |                     | milhas: 0.0006232937334048044 |
