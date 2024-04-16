@@ -11,7 +11,7 @@ Considere que uma polegada equivale à 0.0254 metros. Na hora de imprimir a resp
 polegadas: 39.37007874015748
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-| Exemplo de entrada:	| Exemplo de saída:            |
+| Exemplo de entrada: | Exemplo de saída:            |
 | 1                   | polegadas: 39.37007874015748 |
 | 0.0254              | polegadas: 1                 |
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
