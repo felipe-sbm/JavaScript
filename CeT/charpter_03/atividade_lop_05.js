@@ -1,7 +1,7 @@
 //Atividade de Lógica da programação, Feita por: Felipe SBM, data: 22/03/2024. ECT - UFRN
 
 //Enunciado:
-/*Resto da divisão inteira
+/* -- Resto da divisão inteira --
 
 Escreva um programa que recebe dois números inteiros e mostra o resto da divisão.
 Para calcular o resto use o operador %. Se você usar código x = m%y em x ficaria o resto da divisão de m por y.
