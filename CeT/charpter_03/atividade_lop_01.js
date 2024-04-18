@@ -1,5 +1,6 @@
 //Atividade de Lógica da programação, Feita por: Felipe SBM, data: 21/03/2024. ECT - UFRN
 
+//Enunciado:
 /* -- Fórmula de Bháskara --
 
 Faça um programa que calcula a fórmula de Bháskara para os seguintes valores de
