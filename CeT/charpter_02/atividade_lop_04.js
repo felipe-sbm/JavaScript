@@ -1,9 +1,7 @@
 //Atividade de Lógica da programação, Feita por: Felipe SBM, data: 21/03/2024. ECT - UFRN
 
 //Enunciado:
-/*
-
--- Convertendo de horas para dias --
+/* -- Convertendo de horas para dias --
 
 Escreva um programa que recebe na entrada número inteiro de horas. Crie uma variável chamada horas para receber o número.
 Use o comando prompt( ) para receber o número. Use o expressão abaixo para guardar o número digitado em horas: 
@@ -15,14 +13,13 @@ Nesse exemplo serão testados vários valores de entrada. Veja na área de execu
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 | Exemplo de entrada: | Exemplo de saída: |
+|---------------------|-------------------|
 | 48                  | 2                 |
+|---------------------|-------------------|
 | 72                  | 3                 | 
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´`´´
-
-10431 alunos realizaram a atividade.
-Autor(a): orivaldo@gmail.com
-
-*/
+10431 alunos visualizaram a atividade.
+Autor(a): orivaldo@gmail.com */
 
 let horas = parseFloat(prompt("Informe a quantidade de horas para serem convertidas em dias:"));
 
