@@ -12,6 +12,11 @@ um if dentro de outro if. Veja o exemplo abaixo. A linha de comando que estiver 
 if só será executada se os dois if tiverem Verdade como resultado. Se você entendeu experimente
 agora construir o programa para descobrir o menor dentre 3.
 
+if (x<y) {
+  if (x<z) {
+    ...
+  }
+}
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 | Exemplo de entrada: | Exemplo de saída: |
