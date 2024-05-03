@@ -23,9 +23,9 @@ deve ler números até que o usuário acerte o número.
 | 15                  | acertou           |       ||
 |---------------------|-------------------|       ||
 | 15                  |                   |       //
-| 15	                | acertou           | <====
+| 15                  | acertou           | <====
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
-106
+106 alunos visualizaram a atividade.
 Autor(a): thalesaguiar21@gmail.com */
 
 let temp = parseInt(prompt("Insira um número inteiro:"));
@@ -42,3 +42,4 @@ while (acertou === false) {
         console.log("frio");
     }
 }
+//Vale ressaltar que eu documento todas as questões aqui! Mas os créditos e méritos vão ao professor com o e-mail no enunciado. :-)
