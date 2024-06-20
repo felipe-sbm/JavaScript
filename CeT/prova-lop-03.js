@@ -27,7 +27,7 @@ seu programa deve exibir a contagem de sorrisos, caretas, e mensagens desconheci
 |---------------------|-------------------|
 | ;(                  | 0 sorrisos        |
 | :<                  | 3 caretas         |
-| :}	                | 0 desconhecidos   |
+| :}                  | 0 desconhecidos   |
 ´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
 218 Alunos visualizaram a atividade.
 Autor(a): thalesaguiar21@gmail.com */
