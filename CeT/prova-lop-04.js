@@ -8,25 +8,29 @@ Após a leitura, você deve verificar se o vetor informado é um vetor de dobra.
 dobra quando, ao dobrá-lo na metade, seus valores coincidem. Ou seja, eles possuem na sua metade
 da direita os valores invertidos da sua metade da esquerda.
 
-Por exemplo, o vetor v = [1, 2, 3, 3, 2, 1] é um vetor de dobra. O vetor u = [4, 5, 8, 9, 8, 5, 4] também
-é um vetor de dobra. Entretanto, o vetor t = [1, 2, 3, 4, 5, 6] não é um vetor de dobra.
+Por exemplo, o vetor v = [1, 2, 3, 3, 2, 1] é um vetor de dobra. O vetor u = [4, 5, 8, 9, 8, 5, 4]
+também é um vetor de dobra. Entretanto, o vetor t = [1, 2, 3, 4, 5, 6] não é um vetor de dobra.
 
-Exemplo de entrada	Exemplo de saída
-6
-1
-2.5
-3
-3
-2.5
-1	Vetor de dobra
-6
-1
-2
-3
-1
-2
-3	Vetor comum
-231
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+| Exemplo de entrada: | Exemplo de saída: |
+|---------------------|-------------------|
+| 6                   | Vetor de dobra    |
+| 1                   |                   |
+| 2.5                 |                   |
+| 3                   |                   |
+| 3                   |                   |
+| 2.5                 |                   |
+| 1                   |                   |
+|---------------------|-------------------|
+| 6                   | Vetor comum       |
+| 1                   |                   |
+| 2                   |                   |
+| 3                   |                   |
+| 1                   |                   |
+| 2                   |                   |
+| 3	                  |                   |
+´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´´
+231 Alunos visualizaram a atividade.
 Autor(a): thalesaguiar21@gmail.com */
 
 function vetores() {
